@@ -40,3 +40,12 @@ section article {
 .md > p {
   margin: 0;
 } */
+@media only screen and (max-width: 450px) {
+  .work-exp,
+  .project-exp {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    border-bottom: 1px solid #eee;
+  }
+}
