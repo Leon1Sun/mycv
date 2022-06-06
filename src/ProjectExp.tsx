@@ -15,7 +15,7 @@ const exps = [
     + '+ 技术选型：使用Vue@2.X + Typescript开发的前端工程。 \n'
     + '+ 工作内容：主要负责前端架构、代码审查，作为前端负责人长期维护该项目。\n'
     + '  * 全局的Router,store,tracking, exception hanlder等公用模块的设计与维护\n'
-    + '  * SQL IDE：部分websocket与后台通信，codemirror + handsontable 作为前台编辑器展示的组件，以及自定义的数据展示功能\n'
+    + '  * SQL IDE：websocket与后台通信，codemirror + handsontable 作为前台编辑器展示的组件，以及自定义的数据展示功能\n'
     + '  * 接入Zeppelin，并对其进行二次开发\n'
     + '  * 公司内部申请开源，进行一些脱敏的工作\n'
     + '  * 一些其他的业务端到端实现以及性能优化\n'
